@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/techbros.github.io/static/css/main.d992d226.css",
+    "main.js": "/techbros.github.io/static/js/main.40cf1701.js",
+    "static/media/HeroSection_img.jpg": "/techbros.github.io/static/media/HeroSection_img.f7b2287570a5db1c242e.jpg",
+    "index.html": "/techbros.github.io/index.html",
+    "main.d992d226.css.map": "/techbros.github.io/static/css/main.d992d226.css.map",
+    "main.40cf1701.js.map": "/techbros.github.io/static/js/main.40cf1701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d992d226.css",
+    "static/js/main.40cf1701.js"
+  ]
+}
